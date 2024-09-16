@@ -73,6 +73,3 @@ The application will start on the port specified in the `.env` file.
 - **Authentication**: JWT (JSON Web Tokens)
 - **Error Handling**: Custom error handling on both server and client sides
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

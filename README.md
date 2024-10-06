@@ -1,4 +1,4 @@
-# Chit-Chat
+# ConvoX
 
 A real-time chat application built using the MERN (MongoDB, Express, React, Node.js) stack, along with Socket.io for real-time communication, TailwindCSS, Daisy UI for styling, and Zustand for global state management.
 
